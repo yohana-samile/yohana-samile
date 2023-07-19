@@ -3,11 +3,13 @@
 -  Web desing, my goals is to become a software developer and working with big companies.
 - 🌱 I’m currently learning ...
 - Computer programming languaes inorder to reach my goals
-- Am current learn laravel (php framework).
-- Am familier with PHP procedural, and PDO
+- Am current learn Django (Python framework).
+- Am familier with PHP procedural, and PDO, and Laravel
 
 - For markup language i'am familier with html, css, bootstrap (html/css framework).
 - For bootstrap is--- bootstrap-3 and bootstrap-4
+- For backend i can work with Laravel php framework
+- 
 - 💞️ I’m looking to collaborate on ...
 - Programming language with different people
 - 📫 How to reach me ...
