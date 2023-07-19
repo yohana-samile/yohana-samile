@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ...
 - Computer programming languaes inorder to reach my goals
 - Am current learn Django (Python framework).
-- Am familier with PHP procedural, and PDO, and Laravel
+- Am familier with PHP procedural, PDO, and Laravel
 
 - For markup language i'am familier with html, css, bootstrap (html/css framework).
 - For bootstrap is--- bootstrap-3 and bootstrap-4
