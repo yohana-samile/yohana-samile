@@ -7,9 +7,14 @@
 - Am familier with PHP procedural, PDO, and Laravel
 
 - For markup language i'am familier with html, css, bootstrap (html/css framework).
-- For bootstrap is--- bootstrap-3 and bootstrap-4
+- For bootstrap is--- bootstrap-3, bootstrap-4 and bootstrap-5
+- 
 - For backend i can work with Laravel php framework
 - 
 - 💞️ I’m looking to collaborate on ...
 - Programming language with different people
 - 📫 How to reach me ...
+-
+-  whatsapp +255620350083
+-  email yohanasamile@gmail.com
+-  website on progress
