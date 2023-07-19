@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yohana-samile
 - 👀 I’m interested in ...
--  Web desing, my goals is to become a software developer and working with big companies.
+-  Web desing and developement, my goals is to become a software developer and working with big companies.
 - 🌱 I’m currently learning ...
 - Computer programming languaes inorder to reach my goals
 - Am current learn Django (Python framework).
