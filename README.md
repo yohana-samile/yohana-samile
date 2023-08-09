@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @yohana-samile
-- 👀 I’m interested in ...
--  Web desing and developement, my goals is to become a software developer and working with big companies.
-- 🌱 I’m currently learning ...
-- Computer programming languaes inorder to reach my goals
+- I’m interested in ...
+- Web desing and developement, my goals is to become a software developer and working with big companies.
+- I’m currently learning ...
+- Computer programming languages inorder to reach my goals
 - Am current learn Django (Python framework).
 - Am familier with PHP procedural, PDO, and Laravel
 
@@ -11,10 +11,15 @@
 - 
 - For backend i can work with Laravel php framework
 - 
-- 💞️ I’m looking to collaborate on ...
-- Programming language with different people
+- I’m looking to collaborate on ...
+- Programming language with different people or companies
+- 
 - 📫 How to reach me ...
 -
--  whatsapp +255620350083
--  email yohanasamile@gmail.com
+-  contact
+-     Whatsapp +255 (0) 620 350 083
+-     Normal Callp +255 (0) 745 668 527
+-     email yohanasamile@gmail.com
 -  website on progress
+-  
+-  Location Mzumbe University Morogoro Main Cumpus
