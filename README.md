@@ -6,8 +6,8 @@
 - Am current learn Django (Python framework).
 - Am familier with PHP procedural, PDO, and Laravel
 
-- For markup language i'am familier with html, css, bootstrap (html/css framework).
-- For bootstrap is--- bootstrap-3, bootstrap-4 and bootstrap-5
+- For markup language i'am familier with Html, Css, Bootstrap (Html/CSS framework), and Javascript.
+- For bootstrap is--- Bootstrap-3, Bootstrap-4 and Bootstrap-5
 - 
 - For backend i can work with Laravel php framework
 - 
