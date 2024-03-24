@@ -2,8 +2,7 @@
 - I’m interested in ...
 - Web desing and developement, my goals is to become a software developer and working with big companies.
 - I’m currently learning ...
-- Computer programming languages inorder to reach my goals
-- Am current learn Django (Python framework).
+- Django (Python framework).
 - Am familier with PHP procedural, PDO, and Laravel
 
 - For markup language i'am familier with Html, Css, Bootstrap (Html/CSS framework), and Javascript.
@@ -12,7 +11,7 @@
 - For backend i can work with Laravel php framework
 - 
 - I’m looking to collaborate on ...
-- Programming language with different people or companies
+- Web Developement with different people from different companies
 - 
 - 📫 How to reach me ...
 -
