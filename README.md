@@ -1,24 +1,19 @@
-- 👋 Hi, I’m @yohana-samile
-- I’m interested in ...
-- Web desing and developement, my goals is to become a software developer and working with big companies.
-- I’m currently learning ...
-- Django (Python framework).
-- Am familier with PHP procedural, PDO, and Laravel
+#             👋 Hi, I’m Yohana Samile, WEB DEVELOPER
 
-- For markup language i'am familier with Html, Css, Bootstrap (Html/CSS framework), and Javascript.
-- For bootstrap is--- Bootstrap-3, Bootstrap-4 and Bootstrap-5
-- 
-- For backend i can work with Laravel php framework
-- 
-- I’m looking to collaborate on ...
-- Web Developement with different people from different companies
-- 
-- 📫 How to reach me ...
--
--  contact
--     Whatsapp +255 (0) 620 350 083
--     Normal Callp +255 (0) 745 668 527
--     email yohanasamile@gmail.com
--  website on progress
--  
--  Location Mzumbe University Morogoro Main Cumpus
+<!-- Web desing and developement, my goals is to become a software developer and working with big companies. -->
+  
+>### Am familier with PHP procedural, PDO, and Laravel, Bootstrap (Html/CSS framework), and Javascript.
+  
+- I’m looking to collaborate [github.com/yohana-samile](https://github.com/yohana-samile) on Laravel
+ 
+## How to reach me ...
+
+> [!IMPORTANT]
+> Whatsapp +255 (0) 620 350 083,
+> Normal Call +255 (0) 745 668 527,
+> email yohanasamile@gmail.com
+
+> [!IMPORTANT]
+> website on progress
+
+Location Mzumbe University Morogoro Main Cumpus
