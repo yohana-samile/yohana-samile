@@ -2,7 +2,7 @@
 
 <!-- Web desing and developement, my goals is to become a software developer and working with big companies. -->
   
->### Am familier with PHP procedural, PDO, and Laravel, Bootstrap (Html/CSS framework), and Javascript.
+>### I Am familier with PHP procedural, PDO, and Laravel, Bootstrap (Html/CSS framework), and Javascript.
   
 - I’m looking to collaborate [github.com/yohana-samile](https://github.com/yohana-samile) on Laravel
 
