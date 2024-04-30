@@ -4,7 +4,7 @@
   
 >### I Am familier with PHP procedural, PDO, and Laravel, Bootstrap (Html/CSS framework), and Javascript.
   
-- I’m looking to collaborate [github.com/yohana-samile](https://github.com/yohana-samile) on Laravel
+- I’m looking to collaborate [github.com/yohana-samile](https://github.com/yohana-samile) on Laravel and React
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yohana-samile&show_icons=true&theme=radical)                ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohana-samile&langs_count=8&show_icons=true&theme=radical&layout=compact)
 
