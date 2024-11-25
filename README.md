@@ -24,6 +24,5 @@
 > - [LinkedIn Profile](https://linkedin.com/in/yohana-samile-954530196)
 
 > [!IMPORTANT]
-> website on progress
-
-Location Dar Es Salaam Tanzania
+> - **website** on progress
+> - **Location** Dar Es Salaam Tanzania
