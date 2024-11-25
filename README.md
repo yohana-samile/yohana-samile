@@ -2,7 +2,7 @@
 
 <!-- Web desing and developement, my goals is to become a software developer and working with big companies. -->
   
->### I Am familier with PHP procedural, PDO, and Laravel, Bootstrap (Html/CSS framework), and Javascript.
+>### I am familiar with PHP (procedural and PDO), Laravel, Bootstrap (HTML/CSS framework), and JavaScript.
   
 - I’m looking to collaborate [github.com/yohana-samile](https://github.com/yohana-samile) on Laravel and React
 
@@ -15,13 +15,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohana-samile&layout=compact)
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yohana-samile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) THIS IS FOR PRIVATE DATA
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yohana-samile&hide=contribs,prs) -->
-
 ## How to reach me ...
 
 > [!IMPORTANT]
-> Whatsapp +255 (0) 620 350 083,
-> Normal Call +255 (0) 745 668 527,
-> email yohanasamile@gmail.com
+> - **WhatsApp:** +255 (0) 620 350 083  
+> - **Normal Call:** +255 (0) 745 668 527  
+> - **Email:** yohanasamile@gmail.com  
+> - [LinkedIn Profile](https://linkedin.com/in/yohana-samile-954530196)
 
 > [!IMPORTANT]
 > website on progress
