@@ -26,4 +26,4 @@
 > [!IMPORTANT]
 > website on progress
 
-Location Mzumbe University Morogoro Main Cumpus
+Location Dar Es Salaam Tanzania
