@@ -1,4 +1,4 @@
-#             👋 Hi, I’m Yohana Samile, WEB DEVELOPER
+#             👋 Hi, I’m Yohana Samile, SOFTWARE DEVELOPER
 
 <!-- Web desing and developement, my goals is to become a software developer and working with big companies. -->
   
