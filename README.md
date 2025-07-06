@@ -2,9 +2,9 @@
 
 <!-- Web desing and developement, my goals is to become a software developer and working with big companies. -->
   
->### I am familiar with PHP (procedural and PDO), Laravel, Bootstrap (HTML/CSS framework), and JavaScript.
+>### I am familiar with PHP (procedural and PDO), Laravel, Bootstrap (HTML/CSS framework) , JavaScript, and TypeScript.
   
-- I’m looking to collaborate [github.com/yohana-samile](https://github.com/yohana-samile) on Laravel and React
+- I’m looking to collaborate [github.com/yohana-samile](https://github.com/yohana-samile) on Laravel, React and TypeScript
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yohana-samile&show_icons=true&theme=radical)                ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohana-samile&langs_count=8&show_icons=true&theme=radical&layout=compact)
 
